@@ -1,0 +1,12 @@
+:host {
+  padding: 3px 8px;
+  opacity: 0.5;
+}
+
+.item {
+  cursor: pointer;
+}
+
+.item:hover {
+  text-decoration: underline;
+}

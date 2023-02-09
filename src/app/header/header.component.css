@@ -1,0 +1,16 @@
+.container {
+  background: #3f51b5;
+  color: #fff;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+
+  height: 42px;
+
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  padding-top: 2px;
+
+  font-size: 16px;
+}
